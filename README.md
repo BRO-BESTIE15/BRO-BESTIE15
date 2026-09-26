@@ -27,7 +27,6 @@ I don't have a fancy setup — I just like making things work. 😭
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-333333?style=for-the-badge&logo=python&logoColor=white)
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -45,9 +44,11 @@ I don't have a fancy setup — I just like making things work. 😭
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BRO-BESTIE15&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRO-BESTIE15&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./stats/github-stats.svg" height="165" alt="GitHub Stats" />
+  <img src="./stats/top-languages.svg" height="165" alt="Top Languages" />
 </p>
+
+> Stats are generated automatically by GitHub Actions and stored directly in this repository. The workflow refreshes them daily without depending on external services.
 
 ---
 
@@ -68,8 +69,8 @@ Git + GitHub
  ├── CLI workflows
  ├── Issues & releases
  └── Project management
- ```
- 
+```
+
 ---
 
 ## 📊 A Little More About Me
